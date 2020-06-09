@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		" i ",
+		"ioi",
+		" i "
+	],
+	"key": {
+			"i": {
+				"item": "minetraveler:lightsteel_ingot"
+			},
+			"o": {
+				"item": "minetraveler:eye_titan"
+			}
+	},
+	"result":
+	{
+		"item": "minetraveler:ghost_titan_base"
+	}
+}

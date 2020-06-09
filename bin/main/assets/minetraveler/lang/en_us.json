@@ -1,0 +1,22 @@
+{
+	"item.minetraveler.lightsteel_ingot": "Lightsteel Ingot",
+	"item.minetraveler.arcsteel_ingot": "Arcsteel Ingot",
+	"item.minetraveler.solarsteel_ingot": "Solarsteel Ingot",
+	"item.minetraveler.voidsteel_ingot": "Voidsteel Ingot",
+	"item.minetraveler.eye_warlock": "Warlock Ghost Eye",
+	"item.minetraveler.eye_hunter": "Hunter Ghost Eye",
+	"item.minetraveler.eye_titan": "Titan Ghost Eye",
+	"item.minetraveler.ghost_warlock_base": "Basic Warlock Ghost",
+	"item.minetraveler.ghost_hunter_base": "Basic Hunter Ghost",
+	"item.minetraveler.ghost_titan_base": "Basic Titan Ghost",
+	"item.minetraveler.ghost_warlock_arc": "Arc Warlock Ghost",
+	"item.minetraveler.ghost_hunter_arc": "Arc Hunter Ghost",
+	"item.minetraveler.ghost_titan_arc": "Arc Titan Ghost",
+	"item.minetraveler.ghost_warlock_solar": "Solar Warlock Ghost",
+	"item.minetraveler.ghost_hunter_solar": "Solar Hunter Ghost",
+	"item.minetraveler.ghost_titan_solar": "Solar Titan Ghost",
+	"item.minetraveler.ghost_warlock_void": "Void Warlock Ghost",
+	"item.minetraveler.ghost_hunter_void": "Void Hunter Ghost",
+	"item.minetraveler.ghost_titan_void": "Void Titan Ghost",
+	"itemGroup.minetraveler": "MineTraveler"
+}

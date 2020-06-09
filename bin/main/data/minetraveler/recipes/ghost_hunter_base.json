@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		" i ",
+		"ioi",
+		" i "
+	],
+	"key": {
+			"i": {
+				"item": "minetraveler:lightsteel_ingot"
+			},
+			"o": {
+				"item": "minetraveler:eye_hunter"
+			}
+	},
+	"result":
+	{
+		"item": "minetraveler:ghost_hunter_base"
+	}
+}

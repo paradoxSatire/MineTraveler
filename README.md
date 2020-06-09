@@ -1,1 +1,1 @@
-"# Minetraveler" 
+MineTraveler: Trying to put Destiny into Minecraft!

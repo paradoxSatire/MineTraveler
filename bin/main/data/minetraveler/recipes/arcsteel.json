@@ -1,0 +1,15 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{
+				"item": "minetraveler:lightsteel_ingot"
+		},
+		{
+				"item": "minecraft:redstone_block"
+		}
+	],
+	"result":
+	{
+		"item": "minetraveler:arcsteel_ingot"
+	}
+}

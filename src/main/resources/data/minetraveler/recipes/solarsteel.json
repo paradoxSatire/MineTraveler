@@ -1,0 +1,15 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{
+				"item": "minetraveler:lightsteel_ingot"
+		},
+		{
+				"item": "minecraft:blaze_powder"
+		}
+	],
+	"result":
+	{
+		"item": "minetraveler:solarsteel_ingot"
+	}
+}
