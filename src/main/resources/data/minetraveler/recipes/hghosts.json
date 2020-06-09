@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		[{
+				"item": "minetraveler:ghost_hunter_base"
+		},
+		{
+				"item": "minetraveler:ghost_hunter_arc"
+		},
+		{
+				"item": "minetraveler:ghost_hunter_void"
+		}
+		],
+		{
+				"item": "minetraveler:solarsteel_ingot"
+		}
+	],
+	"result":
+	{
+		"item": "minetraveler:ghost_hunter_solar"
+	}
+}

@@ -1,4 +1,4 @@
-{
+﻿{
 	"item.minetraveler.lightsteel_ingot": "Lightsteel Ingot",
 	"item.minetraveler.arcsteel_ingot": "Arcsteel Ingot",
 	"item.minetraveler.solarsteel_ingot": "Solarsteel Ingot",
@@ -6,6 +6,9 @@
 	"item.minetraveler.eye_warlock": "Warlock Ghost Eye",
 	"item.minetraveler.eye_hunter": "Hunter Ghost Eye",
 	"item.minetraveler.eye_titan": "Titan Ghost Eye",
+	"item.minetraveler.primary_ammo": "§fPrimary Ammo",
+	"item.minetraveler.secondary_ammo": "§aSecondary Ammo",
+	"item.minetraveler.heavy_ammo": "§5Heavy ammo",
 	"item.minetraveler.ghost_warlock_base": "Basic Warlock Ghost",
 	"item.minetraveler.ghost_hunter_base": "Basic Hunter Ghost",
 	"item.minetraveler.ghost_titan_base": "Basic Titan Ghost",

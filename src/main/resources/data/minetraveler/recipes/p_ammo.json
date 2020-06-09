@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{
+				"item": "minetraveler:lightsteel_ingot"
+		},
+		{
+				"item": "minecraft:gunpowder"
+		}
+	],
+	"result":
+	{
+		"item": "minetraveler:primary_ammo",
+		"count": 16
+	}
+}

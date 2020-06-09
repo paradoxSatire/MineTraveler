@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		[{
+				"item": "minetraveler:ghost_warlock_base"
+		},
+		{
+				"item": "minetraveler:ghost_warlock_solar"
+		},
+		{
+				"item": "minetraveler:ghost_warlock_arc"
+		}
+		],
+		{
+				"item": "minetraveler:voidsteel_ingot"
+		}
+	],
+	"result":
+	{
+		"item": "minetraveler:ghost_warlock_void"
+	}
+}

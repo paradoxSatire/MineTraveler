@@ -26,5 +26,7 @@ public class ModItems {
 	public static final Item GHOST_WARLOCK_VOID = null;
 	public static final Item GHOST_HUNTER_VOID = null;
 	public static final Item GHOST_TITAN_VOID = null;
-	
+	public static final Item PRIMARY_AMMO = null;
+	public static final Item SECONDARY_AMMO = null;
+	public static final Item HEAVY_AMMO = null;
 }

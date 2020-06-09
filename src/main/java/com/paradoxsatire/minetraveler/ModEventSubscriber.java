@@ -38,7 +38,10 @@ public class ModEventSubscriber {
 				setup(new Item(new Item.Properties().group(ModItemGroup.MINE_TRAVELER_GROUP).maxStackSize(1)), "ghost_titan_solar"),
 				setup(new Item(new Item.Properties().group(ModItemGroup.MINE_TRAVELER_GROUP).maxStackSize(1)), "ghost_warlock_void"),
 				setup(new Item(new Item.Properties().group(ModItemGroup.MINE_TRAVELER_GROUP).maxStackSize(1)), "ghost_hunter_void"),
-				setup(new Item(new Item.Properties().group(ModItemGroup.MINE_TRAVELER_GROUP).maxStackSize(1)), "ghost_titan_void")
+				setup(new Item(new Item.Properties().group(ModItemGroup.MINE_TRAVELER_GROUP).maxStackSize(1)), "ghost_titan_void"),
+				setup(new Item(new Item.Properties().group(ModItemGroup.MINE_TRAVELER_GROUP)), "primary_ammo"),
+				setup(new Item(new Item.Properties().group(ModItemGroup.MINE_TRAVELER_GROUP)), "secondary_ammo"),
+				setup(new Item(new Item.Properties().group(ModItemGroup.MINE_TRAVELER_GROUP)), "heavy_ammo")
 		);
 	}
 	
